@@ -1,6 +1,7 @@
-# Crop_production_prediction
-Predicting Crop Production Based on Agricultural Data
+#Predicting Crop Production Based on Agricultural Data
+
 Project Overview
+
 This project focuses on forecasting crop production using historical agricultural data. By analyzing trends in area harvested, yield, and crop type across regions and years, the goal is to build a regression model that predicts crop production (in tons). The results support data-driven decision-making in agriculture, food security, supply chain planning, and policy formulation.
 
 Objectives
